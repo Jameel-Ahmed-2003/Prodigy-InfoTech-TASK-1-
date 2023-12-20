@@ -1,1 +1,1 @@
-# Info-aidTech-Internship
+# Responsive Landing Page
